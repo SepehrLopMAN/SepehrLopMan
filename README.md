@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/weblax.ir"><img src="./logo.jpeg" alt="sepehr-katebi" width="200"></a>
+  <a href="https://instagram.com/weblax.ir"><img src="./logo.jpeg" alt="sepehr-katebi"></a>
   <br>
   Sepehr Katebi (LopMan)
 </h1>
