@@ -5,7 +5,7 @@
   Sepehr Katebi (LopMan)
 </h1>
 
-<h4 align="center">This is Sepehr! A junior front end developer, also known as LopMan!</h4>
+<h4 align="center">This is Sepehr! A junior UI/UX developer, also known as LopMan!</h4>
 
 ## My expertise
 
