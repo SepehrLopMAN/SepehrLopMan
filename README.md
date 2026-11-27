@@ -1,39 +1,36 @@
-<h1 align="center">
-  <br>
-  <img src="./logo.jpeg" alt="sepehr-katebi">
-  <br>
-  Sepehr Katebi (LopMan)
-</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img alt="Sepehr Katebi (LopMan): computer vision, evolutionary computation, machine learning" src="./assets/banner-light.svg" width="100%">
+  </picture>
+</p>
 
-<h4 align="center">A software engineer, also known as LopMan. 
-Professionally solving problems I accidentally create 👾 </h4>
+<h4 align="center">A software engineer, also known as LopMan.<br>Professionally solving problems I accidentally create 👾</h4>
+
+<p align="center">
+  <a href="https://doi.org/10.1109/CODASSCA69992.2026.00040"><img alt="Paper: IEEE CODASSCA 2026" src="./assets/badges/paper.svg" height="20"></a>
+  <a href="https://am.linkedin.com/in/sepehr-katebi"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" height="20"></a>
+  <a href="https://t.me/sepehr_katebi"><img alt="Telegram" src="./assets/badges/telegram.svg" height="20"></a>
+</p>
 
 ## My expertise
 
-<p>
-
-<img alt="Python" src="https://img.shields.io/badge/Python-%23ffde57?style=for-the-badge&logo=python">
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
-
-  
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Ccpp%2Cc%2Ccs%2Cjava%2Clinux%2Craspberrypi&theme=dark">
+    <img alt="Python, PyTorch, OpenCV, C++, C, C#, Java, Linux, Raspberry Pi" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Ccpp%2Cc%2Ccs%2Cjava%2Clinux%2Craspberrypi&theme=light">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cangular%2Chtml%2Ccss%2Cjquery%2Cphp%2Cmysql%2Cgit%2Cgithub&theme=dark">
+    <img alt="TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS, jQuery, PHP, MySQL, Git, GitHub" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cangular%2Chtml%2Ccss%2Cjquery%2Cphp%2Cmysql%2Cgit%2Cgithub&theme=light">
+  </picture>
+  <br><br>
+  <img alt="NumPy" src="./assets/badges/numpy.svg" height="20">
+  <img alt="MediaPipe" src="./assets/badges/mediapipe.svg" height="20">
+  <img alt="React Native" src="./assets/badges/react-native.svg" height="20">
+  <img alt="REST APIs" src="./assets/badges/rest-apis.svg" height="20">
+  <img alt="Evolutionary algorithms" src="./assets/badges/evolutionary.svg" height="20">
+  <img alt="Claude" src="./assets/badges/claude.svg" height="20">
+  <img alt="ChatGPT" src="./assets/badges/chatgpt.svg" height="20">
 </p>
-
-## My social networks
-<a href="https://am.linkedin.com/in/sepehr-katebi">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linedin-%230072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/sepehr_katebi">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
